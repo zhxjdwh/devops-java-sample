@@ -1,2 +1,2 @@
 # devops-java-sample
-A Java sample fo  r devop  s o   n     ku  besphere
+A Java sample fo  r devop  s  n     ku  besphere
